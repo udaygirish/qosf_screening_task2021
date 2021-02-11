@@ -41,4 +41,10 @@ For running different networks modifications can be made in network.json
     7.  "output_path" : to declare output images path
     8.  "max_iter" : number of iteration to run optimization for
 
+### Credits
+Most of the code taken and understood some concepts from these blogs:
+         
+         https://lucaman99.github.io/new_blog/2020/mar16.html
+         https://qxf2.com/blog/drawing-weighted-graphs-with-networkx/
 
+         Wiki articles on Max-cut problem.
