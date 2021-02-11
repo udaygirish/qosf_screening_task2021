@@ -42,9 +42,10 @@ For running different networks modifications can be made in network.json
     8.  "max_iter" : number of iteration to run optimization for
 
 ### Credits
-Most of the code taken and understood some concepts from these blogs:
+Most of the code (taken and modified and added) and some concepts I read are from these blogs:
          
-         https://lucaman99.github.io/new_blog/2020/mar16.html
-         https://qxf2.com/blog/drawing-weighted-graphs-with-networkx/
+         <https://lucaman99.github.io/new_blog/2020/mar16.html>
+         <https://qxf2.com/blog/drawing-weighted-graphs-with-networkx/>
 
          Wiki articles on Max-cut problem.
+
